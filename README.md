@@ -1,4 +1,4 @@
-# Hello, I'm Vipul! 👋
+# Hello, I am Vipul! 👋
 
 ## About Me
 

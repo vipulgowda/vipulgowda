@@ -49,4 +49,4 @@ deployment and docker for encapsulating application dependencies.
 ## Let's Connect!
 Feel free to reach out.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vipul-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourusername/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vipul-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vipul-gowda/)

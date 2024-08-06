@@ -16,15 +16,15 @@
 
 ## Projects
 ### [Trimet Transit Operations Analysis ](https://github.com/vipulgowda/Data-Engineering)
-• Engineered a robust data pipeline on the Google Cloud Platform (GCP) utilizing virtual machines and pub/sub for
+Engineered a robust data pipeline on the Google Cloud Platform (GCP) utilizing virtual machines and pub/sub for
 real-time processing of over 1 million GPS and stop event records daily, enhancing public transit efficiency.
-• Automated virtual machine scheduling and cron jobs to align with processing demands, reducing operational costs
+Automated virtual machine scheduling and cron jobs to align with processing demands, reducing operational costs
 by 20% while maintaining high availability and reliability of data services.
 
 ### [AI-powered receipt analysis](https://final-453j6mi67a-uw.a.run.app/)
 Developed AI scanner, a receipt analysis tool integrating Google Cloud Vision and Gemini LLM APIs, achieving 95%
 accuracy in receipt data extraction and interpretation.
-• Designed a microservices architecture on a Google Cloud Platform, leveraging Google Cloud run for serverless container
+Designed a microservices architecture on a Google Cloud Platform, leveraging Google Cloud run for serverless container
 deployment and docker for encapsulating application dependencies.
 
 

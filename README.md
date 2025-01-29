@@ -21,12 +21,6 @@ real-time processing of over 1 million GPS and stop event records daily, enhanci
 Automated virtual machine scheduling and cron jobs to align with processing demands, reducing operational costs
 by 20% while maintaining high availability and reliability of data services.
 
-### [AI-powered receipt analysis](https://final-453j6mi67a-uw.a.run.app/)
-Developed AI scanner, a receipt analysis tool integrating Google Cloud Vision and Gemini LLM APIs, achieving 95%
-accuracy in receipt data extraction and interpretation.
-Designed a microservices architecture on a Google Cloud Platform, leveraging Google Cloud run for serverless container
-deployment and docker for encapsulating application dependencies.
-
 
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vipulgowda&show_icons=true&count_private=true&hide=contribs,prs)
